@@ -1,1 +1,1 @@
-Atlas project for instructor Max of T3-fs to teach advanced html.
+Atlas project for instructor Max of T3-fs to teach advanced css for an html page.
